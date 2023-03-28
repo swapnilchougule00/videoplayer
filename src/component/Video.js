@@ -52,7 +52,8 @@ function Video() {
                             <input type="text" name='name' placeholder='*Your name' className='w-full text-xl p-4 outline-none border-b ' />
                             <input type="check" name='email' placeholder='*Your email' className='w-full text-xl p-4 outline-none border-b ' />
                             <input type="checkbox" name="checkbox" className='border border-black' />
-                            <label htmlFor="checkbox" className='text-sm text-slate-500'>  * [Sample legal text] The personal data you have provided will be processed by XXXXX for purposes of providing you the service. The legal basis of the processing is XXXXX. Your data will not be transferred nor assigned to third parties. You can exercise your right to access, rectify and delete your data, as well as the other rights granted by law by sending an email to XXXXX. For further information, please check our privacy policy XXXXX.</label>
+                            <label htmlFor="checkbox" className='text-sm text-slate-500'>  * [Sample legal text] The personal data you have provided will be processed by XXXXX for purposes of providing you the service. The legal basis of the processing is XXXXX. 
+                            Your data will not be transferred nor assigned to third parties. You can exercise your right to access, rectify and delete your data, as well as the other rights granted by law by sending an email to XXXXX. For further information, please check our privacy policy XXXXX.</label>
                             <button className='w-full tracking-wide h-[68px] hover:scale-105 shadow-md bg-[#7D00FE] flex items-center justify-center  text-lg font-semibold text-white px-[24px] rounded-[20px]'>Send your answer ⟶</button>
 
                         </form>
@@ -68,7 +69,8 @@ function Video() {
                             <input type="text" name='name' placeholder='*Your name' className='w-full text-xl p-4 outline-none border-b ' />
                             <input type="check" name='email' placeholder='*Your email' className='w-full text-xl p-4 outline-none border-b ' />
                             <input type="checkbox" name="checkbox" className='border border-black' />
-                            <label htmlFor="checkbox" className='text-sm text-slate-500'>  * [Sample legal text] The personal data you have provided will be processed by XXXXX for purposes of providing you the service. The legal basis of the processing is XXXXX. Your data will not be transferred nor assigned to third parties. You can exercise your right to access, rectify and delete your data, as well as the other rights granted by law by sending an email to XXXXX. For further information, please check our privacy policy XXXXX.</label>
+                            <label htmlFor="checkbox" className='text-sm text-slate-500'>  * [Sample legal text] The personal data you have provided will be processed by XXXXX for purposes of providing you the service. The legal basis of the processing is XXXXX.
+                             Your data will not be transferred nor assigned to third parties. You can exercise your right to access, rectify and delete your data, as well as the other rights granted by law by sending an email to XXXXX. For further information, please check our privacy policy XXXXX.</label>
                             <button className='w-full tracking-wide h-[68px] hover:scale-105 shadow-md bg-[#7D00FE] flex items-center justify-center  text-lg font-semibold text-white px-[24px] rounded-[20px]'>Send your answer ⟶</button>
 
                         </form>
