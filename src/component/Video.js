@@ -35,11 +35,14 @@ function Video() {
 
 
 
-                    <button onClick={() => handle(1)} className=' bg-[#1111751a] border border-white w-[336px] mt-[12px] text-left px-6 py-4 rounded-[30px] text-slate-900 cursor-pointer hover:border hover:border-[#7D00FE] text-[18px] font-semibold  '><span className=' py-[6px] px-[12px]  mr-3 font-semibold items-center justify-center text-white bg-[#7D00FE] rounded-full'>A</span> Campaign structure</button>
+                    <button onClick={() => handle(1)} className=' bg-[#1111751a] border border-white w-[336px] mt-[12px] text-left px-6 py-4 rounded-[30px] text-slate-900 cursor-pointer hover:border hover:border-[#7D00FE] text-[18px] font-semibold  '>
+                    <span className=' py-[6px] px-[12px]  mr-3 font-semibold items-center justify-center text-white bg-[#7D00FE] rounded-full'>A</span> Campaign structure</button>
 
-                    <button onClick={() => handle(2)} className=' bg-[#1111751a] border border-white w-[336px] mt-[12px] text-left px-6 py-4 rounded-[30px] text-slate-900 cursor-pointer hover:border hover:border-[#7D00FE] text-[18px] font-semibold  '><span className=' py-[6px] px-[12px]  mr-3 font-semibold items-center justify-center text-white bg-[#7D00FE] rounded-full'>A</span> Learn Facebook basics</button>
+                    <button onClick={() => handle(2)} className=' bg-[#1111751a] border border-white w-[336px] mt-[12px] text-left px-6 py-4 rounded-[30px] text-slate-900 cursor-pointer hover:border hover:border-[#7D00FE] text-[18px] font-semibold  '>
+                    <span className=' py-[6px] px-[12px]  mr-3 font-semibold items-center justify-center text-white bg-[#7D00FE] rounded-full'>A</span> Learn Facebook basics</button>
 
-                    <button onClick={() => handle(1)} className=' bg-[#1111751a] border border-white w-[336px] mt-[12px] text-left px-6 py-4 rounded-[30px] text-slate-900 cursor-pointer hover:border hover:border-[#7D00FE] text-[18px] font-semibold  '><span className=' py-[6px] px-[12px]  mr-3 font-semibold items-center justify-center text-white bg-[#7D00FE] rounded-full'>A</span> 3rd choice</button>
+                    <button onClick={() => handle(1)} className=' bg-[#1111751a] border border-white w-[336px] mt-[12px] text-left px-6 py-4 rounded-[30px] text-slate-900 cursor-pointer hover:border hover:border-[#7D00FE] text-[18px] font-semibold  '>
+                    <span className=' py-[6px] px-[12px]  mr-3 font-semibold items-center justify-center text-white bg-[#7D00FE] rounded-full'>A</span> 3rd choice</button>
 
                 </div>
 
